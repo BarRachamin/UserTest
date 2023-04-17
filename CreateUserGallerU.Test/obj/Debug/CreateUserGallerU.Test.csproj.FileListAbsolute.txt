@@ -1,0 +1,14 @@
+C:\Users\barra\source\repos\Test\TestUserGallerU\CreateUserGallerU.Test\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\barra\source\repos\Test\TestUserGallerU\CreateUserGallerU.Test\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\barra\source\repos\Test\TestUserGallerU\CreateUserGallerU.Test\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\barra\source\repos\Test\TestUserGallerU\CreateUserGallerU.Test\bin\Debug\CreateUserGallerU.Test.dll
+C:\Users\barra\source\repos\Test\TestUserGallerU\CreateUserGallerU.Test\bin\Debug\CreateUserGallerU.Test.pdb
+C:\Users\barra\source\repos\Test\TestUserGallerU\CreateUserGallerU.Test\bin\Debug\TestUserGallerU.exe
+C:\Users\barra\source\repos\Test\TestUserGallerU\CreateUserGallerU.Test\bin\Debug\WebDriver.dll
+C:\Users\barra\source\repos\Test\TestUserGallerU\CreateUserGallerU.Test\bin\Debug\TestUserGallerU.pdb
+C:\Users\barra\source\repos\Test\TestUserGallerU\CreateUserGallerU.Test\bin\Debug\TestUserGallerU.exe.config
+C:\Users\barra\source\repos\Test\TestUserGallerU\CreateUserGallerU.Test\obj\Debug\CreateUserGallerU.Test.csproj.AssemblyReference.cache
+C:\Users\barra\source\repos\Test\TestUserGallerU\CreateUserGallerU.Test\obj\Debug\CreateUserGallerU.Test.csproj.CoreCompileInputs.cache
+C:\Users\barra\source\repos\Test\TestUserGallerU\CreateUserGallerU.Test\obj\Debug\CreateUserGallerU.Test.csproj.CopyComplete
+C:\Users\barra\source\repos\Test\TestUserGallerU\CreateUserGallerU.Test\obj\Debug\CreateUserGallerU.Test.dll
+C:\Users\barra\source\repos\Test\TestUserGallerU\CreateUserGallerU.Test\obj\Debug\CreateUserGallerU.Test.pdb

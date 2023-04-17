@@ -1,0 +1,16 @@
+C:\Users\barra\source\repos\Test\TestUserGallerU\TestUserGallerU\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\barra\source\repos\Test\TestUserGallerU\TestUserGallerU\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\barra\source\repos\Test\TestUserGallerU\TestUserGallerU\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\barra\source\repos\Test\TestUserGallerU\TestUserGallerU\bin\Debug\TestUserGallerU.exe.config
+C:\Users\barra\source\repos\Test\TestUserGallerU\TestUserGallerU\bin\Debug\TestUserGallerU.exe
+C:\Users\barra\source\repos\Test\TestUserGallerU\TestUserGallerU\bin\Debug\TestUserGallerU.pdb
+C:\Users\barra\source\repos\Test\TestUserGallerU\TestUserGallerU\bin\Debug\WebDriver.dll
+C:\Users\barra\source\repos\Test\TestUserGallerU\TestUserGallerU\obj\Debug\CreateUserGallerU.csproj.AssemblyReference.cache
+C:\Users\barra\source\repos\Test\TestUserGallerU\TestUserGallerU\obj\Debug\CreateUserGallerU.csproj.SuggestedBindingRedirects.cache
+C:\Users\barra\source\repos\Test\TestUserGallerU\TestUserGallerU\obj\Debug\TestUserGallerU.Form1.resources
+C:\Users\barra\source\repos\Test\TestUserGallerU\TestUserGallerU\obj\Debug\TestUserGallerU.Properties.Resources.resources
+C:\Users\barra\source\repos\Test\TestUserGallerU\TestUserGallerU\obj\Debug\CreateUserGallerU.csproj.GenerateResource.cache
+C:\Users\barra\source\repos\Test\TestUserGallerU\TestUserGallerU\obj\Debug\CreateUserGallerU.csproj.CoreCompileInputs.cache
+C:\Users\barra\source\repos\Test\TestUserGallerU\TestUserGallerU\obj\Debug\CreateUserGallerU.csproj.CopyComplete
+C:\Users\barra\source\repos\Test\TestUserGallerU\TestUserGallerU\obj\Debug\TestUserGallerU.exe
+C:\Users\barra\source\repos\Test\TestUserGallerU\TestUserGallerU\obj\Debug\TestUserGallerU.pdb
